@@ -4,7 +4,6 @@ Python projects. It is used by setuptools (or disutils in older python versions)
 to define the configuration of your projet, such as its metadata, dependencies and more
 
 '''
-
 from setuptools import find_packages, setup
 from typing import List
 
